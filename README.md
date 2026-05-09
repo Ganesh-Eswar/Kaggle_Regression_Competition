@@ -271,6 +271,7 @@ Submission files for different models were generated in CSV format and stored in
 │   └── ...
 ├── README.md
 └── requirements.txt
+└── Kaggle_Regression_workflow.mp4
 ```
 
 ---
