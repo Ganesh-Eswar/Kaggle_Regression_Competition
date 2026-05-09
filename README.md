@@ -2,6 +2,10 @@
 
 ## Overview
 
+Kaggle competition link: https://www.kaggle.com/competitions/mlp-term-3-2025-kaggle-assignment-1
+
+Explanation video link: https://drive.google.com/file/d/1t00wBhyx7cdZ_ARK8HtHyio2EstkMfRi/view?usp=sharing
+
 This project was developed as part of a Kaggle regression competition focused on predicting house prices using structured housing data.
 
 The objective was to build and compare multiple machine learning models capable of accurately estimating house prices based on features such as location, area type, square footage, number of bathrooms, balconies, and house size.
